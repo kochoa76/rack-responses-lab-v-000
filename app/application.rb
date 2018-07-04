@@ -1,3 +1,5 @@
+require 'time'
+
 class Application
 
   def call(env)
